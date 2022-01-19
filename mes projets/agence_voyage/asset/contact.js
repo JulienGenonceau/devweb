@@ -24,5 +24,3 @@ function ValidateEmail(input) {
     }
   
   }
-  
-  D
